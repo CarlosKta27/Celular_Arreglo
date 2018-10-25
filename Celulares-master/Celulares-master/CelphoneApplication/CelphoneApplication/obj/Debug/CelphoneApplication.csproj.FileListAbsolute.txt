@@ -1,0 +1,10 @@
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.exe
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.pdb
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csprojResolveAssemblyReference.cache
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.exe
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.pdb
+C:\Users\sala4\Videos\Celulares-master\Celulares-master\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.exe
+C:\Users\sala4\Videos\Celulares-master\Celulares-master\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.pdb
+C:\Users\sala4\Videos\Celulares-master\Celulares-master\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csprojResolveAssemblyReference.cache
+C:\Users\sala4\Videos\Celulares-master\Celulares-master\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.exe
+C:\Users\sala4\Videos\Celulares-master\Celulares-master\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.pdb
